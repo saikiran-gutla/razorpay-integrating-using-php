@@ -1,7 +1,5 @@
 <?php
-$razor_api_key = "rzp_test_O0gjJkxP675xP8";
-$razor_email = "";
-$razor_name = "";
-//saikiran@gksedutech.com
-//Saikiran
+$razor_api_key = "rzp_test_xxxxxxxxxxxxxxxxxxxx";
+$razor_email = "someemail"; //enter
+$razor_name = "some name"; //enter
 ?>
